@@ -1,8 +1,8 @@
 # Inventory-System-Implementation
 
-Inventory Management System by ASP.NET and MSSQL
+Inventory Management system create by ASP.NET and c#
 
-This is a Inventory Management System. Here i am trying to develop some basic and important fields of Inventory Management System. They are:
+I am trying to develop some basic and important fields of Inventory Management System. They are:
 
 Entry
 Report
