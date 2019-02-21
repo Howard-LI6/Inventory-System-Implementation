@@ -1,0 +1,12 @@
+C:\Peter\FGTransaction\FGTransaction\bin\FGTransaction.dll
+C:\Peter\FGTransaction\FGTransaction\bin\FGTransaction.pdb
+C:\Peter\FGTransaction\FGTransaction\obj\Debug\ResolveAssemblyReference.cache
+C:\Peter\FGTransaction\FGTransaction\obj\Debug\FGTransaction.dll
+C:\Peter\FGTransaction\FGTransaction\obj\Debug\FGTransaction.pdb
+F:\FGTransaction\FGTransaction\bin\FGTransaction.dll.config
+F:\FGTransaction\FGTransaction\bin\FGTransaction.dll
+F:\FGTransaction\FGTransaction\bin\FGTransaction.pdb
+F:\FGTransaction\FGTransaction\obj\Debug\FGTransaction.csprojAssemblyReference.cache
+F:\FGTransaction\FGTransaction\obj\Debug\FGTransaction.csproj.CoreCompileInputs.cache
+F:\FGTransaction\FGTransaction\obj\Debug\FGTransaction.dll
+F:\FGTransaction\FGTransaction\obj\Debug\FGTransaction.pdb
