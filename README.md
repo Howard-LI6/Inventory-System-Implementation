@@ -2,7 +2,7 @@
 
 Inventory Management system create by ASP.NET and c#
 
-The table has two parts. They are:
+The Inventory Management system include two parts. They are:
 
 - Entry
 - Report
@@ -15,4 +15,4 @@ you can put the information inside, and the systen will record your creative tim
 - Quantity
 
 Report part：
-System will calculate how many on hand quantity each warehouse has, and show on the table
+System will calculate how many on hand quantity each warehouse has, and show on the database
